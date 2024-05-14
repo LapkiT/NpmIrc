@@ -1,61 +1,64 @@
 {
-    "citizens": [
-      {
-        "id": 1,
-        "name": "Иван Иванов",
-        "birthDate": "1990-05-21",
-        "familyMembers": 2,
-        "education": "Высшее",
-        "tickets": [
-          {
-            "id": "T1",
-            "issue": "Вопрос по налогам",
-            "status": "Открыт"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Мария Семенова",
-        "birthDate": "1984-03-15",
-        "familyMembers": 3,
-        "education": "Среднее специальное",
-        "tickets": [
-          {
-            "id": "T2",
-            "issue": "Заявление на участие",
-            "status": "Закрыт"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Иван Иванов",
-        "birthDate": "1990-05-21",
-        "familyMembers": 2,
-        "education": "Высшее",
-        "tickets": [
-          {
-            "id": "T1",
-            "issue": "Вопрос по налогам",
-            "status": "Открыт"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Тимур Иванов",
-        "birthDate": "1990-05-21",
-        "familyMembers": 2,
-        "education": "Высшее",
-        "tickets": [
-          {
-            "id": "T1",
-            "issue": "Вопрос по налогам",
-            "status": "Открыт"
-          }
-        ]
-      }
-    ]
-  }
-  
+  "citizens": [
+    {
+      "id": "1",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-09-2022%29_2.png/647px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-09-2022%29_2.png",
+      "name": "Иван Иванов",
+      "birthDate": "1990-05-21",
+      "familyMembers": 2,
+      "education": "Высшее",
+      "tickets": [
+        {
+          "id": "T1",
+          "issue": "Вопрос по налогам",
+          "status": "Открыт"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "img": "https://i.pinimg.com/236x/5b/6e/ca/5b6eca63605bea0eeb48db43f77fa0ce.jpg",
+      "name": "Мария Семенова",
+      "birthDate": "1984-03-15",
+      "familyMembers": 3,
+      "education": "Среднее специальное",
+      "tickets": [
+        {
+          "id": "T2",
+          "issue": "Заявление на участие",
+          "status": "Закрыт"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "img": "https://i.pinimg.com/236x/5b/6e/ca/5b6eca63605bea0eeb48db43f77fa0ce.jpg",
+      "name": "Иван Иванов",
+      "birthDate": "1990-05-21",
+      "familyMembers": 2,
+      "education": "Высшее",
+      "tickets": [
+        {
+          "id": "T1",
+          "issue": "Вопрос по налогам",
+          "status": "Открыт"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "img": "https://i.pinimg.com/236x/5b/6e/ca/5b6eca63605bea0eeb48db43f77fa0ce.jpg",
+      "name": "Тимур Иванов",
+      "birthDate": "1990-05-21",
+      "familyMembers": 2,
+      "education": "Высшее",
+      "tickets": [
+        {
+          "id": "T1",
+          "issue": "Вопрос по налогам",
+          "status": "Открыт"
+        }
+      ]
+    }
+  ]
+}
